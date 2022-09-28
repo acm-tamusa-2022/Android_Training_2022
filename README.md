@@ -19,3 +19,9 @@ I'll also go through installing android studio, android emulator, and sharing yo
 Here's a walkthrough of the completed app:
 
 <img src="/walkthrough.gif" width=250><br>
+
+## Video Walkthrough
+
+Tutorial Video:
+
+<img src="/walkthrough.gif" width=250><br>
