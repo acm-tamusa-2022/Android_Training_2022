@@ -11,9 +11,10 @@ I'll also go through installing android studio, android emulator, and sharing yo
 
 ## Required Features
 
-- **User can add an item to their wishlist**
-- **New wishes are saved in a database and then updated in the RecyclerView**
-- **On application restart, previously entered wishes are preserved**
+- Part 1: **User can add an item to their wishlist**
+- Part 1: **After adding wish, RecyclerView is updated**
+- Part 2: **New wishes are saved in a database**
+- Part 2: **On application restart, previously entered wishes are preserved**
 
 ## GIF Walkthrough
 
