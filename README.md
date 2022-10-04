@@ -11,7 +11,7 @@ I'll also go through installing android studio, android emulator, and sharing yo
 ## Video Setup
 
 Setup Video:
-
+https://jaguartamu-my.sharepoint.com/:v:/g/personal/srodr0104_jaguar_tamu_edu/EfyTlunkxoJBm-zIH3buSzoB8ACQmPL-A3vPaPk_twxu_w?e=OVoFYj
 
 ## Required Features
 
