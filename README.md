@@ -12,7 +12,6 @@ I'll also go through installing android studio, android emulator, and sharing yo
 
 Setup Video:
 
-<img src="/walkthrough.gif" width=250><br>
 
 ## Required Features
 
@@ -28,5 +27,3 @@ Here's a walkthrough of the completed app:
 ## Video Walkthrough
 
 Tutorial Video:
-
-<img src="/walkthrough.gif" width=250><br>
