@@ -1,4 +1,3 @@
-# WORK IN PROGRESS
 # Android_Training_2022
 CodeRed 2022 Android Training
 
@@ -9,12 +8,16 @@ I'll also go through installing android studio, android emulator, and sharing yo
 ## Required Software
 - **Android Studio** (https://developer.android.com/studio)
 
+## Video Setup
+
+Setup Video:
+
+<img src="/walkthrough.gif" width=250><br>
+
 ## Required Features
 
 - Part 1: **User can add an item to their wishlist**
 - Part 1: **After adding wish, RecyclerView is updated**
-- Part 2: **New wishes are saved in a database**
-- Part 2: **On application restart, previously entered wishes are preserved**
 
 ## GIF Walkthrough
 
