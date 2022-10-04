@@ -8,6 +8,9 @@ I'll also go through installing android studio, android emulator, and sharing yo
 ## Required Software
 - **Android Studio** (https://developer.android.com/studio)
 
+## Optional
+- **Running Android apps on device** (https://developer.android.com/studio/run/device)
+
 ## Video Setup
 
 Setup Video:
