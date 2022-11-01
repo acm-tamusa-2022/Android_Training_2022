@@ -1,9 +1,7 @@
 # Android_Training_2022
 CodeRed 2022 Android Training
 
-For this training, you'll create a wishlist app. The user will be able to enter a wish, and it should show up on the RecyclerView. Also, when the user leaves/closes the app, the data that was previously entered, should show up still.
-
-I'll also go through installing android studio, android emulator, and sharing your project onto github. Once your done, please add your name and github repo url on the spreadsheet (https://docs.google.com/spreadsheets/d/1AmzbrihJE45bBpPhs6pIPj1deETuvjCNx14V0fWOLlI/edit?usp=sharing).
+For this training, you'll create a wishlist app. The user will be able to enter a wish, and it should show up on the RecyclerView.
 
 ## Required Software
 - **Android Studio** (https://developer.android.com/studio)
